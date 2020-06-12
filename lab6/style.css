@@ -1,6 +1,4 @@
-p{
-background-color: lightgrey;
-}
+
 #first_block {
 background-color: lightgrey;
 width:300px;
@@ -17,7 +15,7 @@ margin:20px;
 }
 #third_block {
 background-color: lightgrey;
-width:auto;
+width:40;
 border:5px double blue;
 padding: 20px;
 margin: 20px;
